@@ -15,10 +15,10 @@
 
 
 ### What Am I Using?
-<img src=https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png width="40" height="40">
-<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png width="37" height="37">
-<img src=https://www.pngfind.com/pngs/m/642-6424738_launching-multiple-projects-in-jetbrains-rider-jetbrains-rider.png width="37" height="37">
-<img src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg width="36" height="36">
+<img src=https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png width="30" height="30">
+<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png width="30" height="30">
+<img src=https://www.pngfind.com/pngs/m/642-6424738_launching-multiple-projects-in-jetbrains-rider-jetbrains-rider.png width="30" height="30">
+<img src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg width="30" height="30">
 
 
 
