@@ -1,6 +1,6 @@
 ### Hi there, I'm Yusuf.
 
-## Front End Developer And Digital Game Design with Unity
+## Front End Developer And Game Design with Unity
 
 ### Links
 
