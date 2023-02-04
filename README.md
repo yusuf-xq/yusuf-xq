@@ -4,7 +4,7 @@
 
 ### Links
 
-[<img width="40" src="[https://unpkg.com/simple-icons@v5/icons/steam.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-steam-computer-icons-logo-video-game-valves-2884005%2F&psig=AOvVaw2zARuKaUrngDWTYGUyurr5&ust=1675591680296000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjF18jP-_wCFQAAAAAdAAAAABAD)" align="left" />
+[<img width="40" src="[https://banner2.cleanpng.com/20180604/xiy/kisspng-steam-computer-icons-logo-video-game-valves-5b14dba6212cf3.1367866015280936061359.jpg)" align="left" />
 ][steam]
 
 <br />
