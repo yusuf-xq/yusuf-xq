@@ -2,15 +2,6 @@
 
 ## I know everything
 
-### Links
-
-[<img width="40" src="[https://banner2.cleanpng.com/20180604/xiy/kisspng-steam-computer-icons-logo-video-game-valves-5b14dba6212cf3.1367866015280936061359.jpg)" align="left" />
-][steam]
-
-<br />
-<br />
-
-
 
 ### What Am I Using?
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" align="left" width="40" height="40"> 
